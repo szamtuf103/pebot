@@ -1,0 +1,5 @@
+string name
+PoseWithCovariance goal
+---
+# bool isSuccessful
+string result

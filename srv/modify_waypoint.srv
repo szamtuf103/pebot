@@ -1,0 +1,4 @@
+string waypoint_name
+PoseWithCovariance goal
+---
+string result
